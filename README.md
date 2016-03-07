@@ -18,7 +18,8 @@ The constructions meant to be easy to replicate, using widely known boards as Ar
                \\                          ||                 
                
           60° angle (180 - 120)           90° angle (180 - 90)
-  
+          
+          
     A structure holds and turns a 5W solar panel over its axis through a servo motor to simulate sun movement 
 and also control the instensity of 4 bulp lamps to simulate sunshine strenght. The source light angle and the 
 light instensity is set by an user through an user interface conected with Arduino board by TCP/IP protocol, 
